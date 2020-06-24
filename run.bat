@@ -1,3 +1,3 @@
-cd "potato"
-python arc-check.py
+cd "E:\projects\samCheckArc"
+python ac-data/arc-check.py
 pause
