@@ -8,7 +8,7 @@ You'll need python3 installed. That's it!
 
 ### Installation:
  
- 1. Place in your GW2 folder (likely 'C:/program files/guild wars 2/' or something)
+ 1. Place in your GW2 folder (likely 'C:/Program Files/Guild Wars 2/' or something)
  2. Run 'install.bat'.
  3. Drag 'run.bat' file to somewhere convenient (like your desktop!).
  4. Double-click 'run.bat' any time you wanna check for updates!
