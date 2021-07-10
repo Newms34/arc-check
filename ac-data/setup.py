@@ -13,7 +13,6 @@ if(not(os.path.exists('gw2.exe')) and not(os.path.exists('gw2-64.exe'))):
 lines = []
 with open(filename) as inFile:
     for line in inFile:
-        print("LINE:",line)
         if line.strip() == "echo You forgot to run install.bat or setup.py first!" or line.strip() == "goto:eof":
             continue
         lines.append(line.replace('replaceMe', os.getcwd()))
